@@ -83,5 +83,4 @@ dependencies {
     ksp(libs.dagger.compiler)
     implementation (libs.androidx.hilt.navigation.compose)
     implementation(libs.androidx.datastore.preferences)
-    implementation (libs.itext7.core)
 }

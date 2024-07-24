@@ -1,0 +1,13 @@
+<resources>
+    <string name="appName">NoteCraft</string>
+    <string name="searchingIsHint">Search…</string>
+    <string name="floatingActionText">ADD NOTE</string>
+    <string name="noteAddScreenToastMessage">Title or content cannot be empty. Please fill them out and try again.</string>
+    <string name="noteAddTitle">ADD NOTE</string>
+    <string name="noteAddContainerTitle">Title</string>
+    <string name="noteAddContainerContent">Content</string>
+    <string name="noteDetailsTitle">NOTE DETAİLS</string>
+    <string name="noteDetailsContainerTitle">Title</string>
+    <string name="noteDetailsContainerContent">Content</string>
+    <string name="noteDetailsScreenToastMessage">Title or content cannot be empty. Please fill them out and try again.</string>
+</resources>

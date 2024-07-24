@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">NoteCraft</string>
+    <string name="searchingIsHint">Ara…</string>
+    <string name="floatingActionText">NOT EKLE</string>
+    <string name="noteAddScreenToastMessage">Başlık veya İçeriğiniz boş lütfen doldurup deneyiniz.</string>
+    <string name="noteAddTitle">NOT EKLE</string>
+    <string name="noteAddContainerTitle">Başlık</string>
+    <string name="noteAddContainerContent">İçerik</string>
+    <string name="noteDetailsTitle">NOT DETAYLARI</string>
+    <string name="noteDetailsContainerTitle">Başlık</string>
+    <string name="noteDetailsContainerContent">İçerik</string>
+    <string name="noteDetailsScreenToastMessage">Başlık veya İçeriğiniz boş lütfen doldurup deneyiniz.</string>
+</resources>
